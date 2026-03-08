@@ -35,8 +35,12 @@ I'm a **Full-Stack Developer** and **ICT Student** based in the beautiful island
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaaamariee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaaamariee&layout=compact&theme=dracula" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vina%20Marie&fontSize=90&animation=fadeIn" />
+</p>
+
+### 📊 My GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaaamariee&theme=dracula" />
 </p>
 
 ---
