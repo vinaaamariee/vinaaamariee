@@ -11,13 +11,10 @@
 ### 💫 About Me
 I'm an ICT Student and Frontend Developer based in Batanes. I enjoy building functional, well-designed web applications and exploring the intersection of clean code and visual storytelling.
 
-🚀 Current Focus: Building responsive interfaces with React, Next.js, and Tailwind CSS.
-
-🛠️ Experience: Working with Vite for modern builds and maintaining foundational skills in PHP, Java, and Visual Basic.
-
-📸 Creative Side: Beyond the terminal, I’m a photography enthusiast with a passion for minimalist UI/UX design
-
-🎓 Education: Information & Communications Technology at Batanes State College.
+- 🔭 **Currently building:** [SideOut](https://github.com/vinaaamariee/sideout) — a dedicated e-scoresheet system for volleyball.
+- 🌱 **Learning:** Leveling up my **Next.js**, **Vite**, and **Tailwind CSS** skills while exploring backend integration.
+- 📸 **Passions:** Photography, Minimalist Web Design, and UI/UX.
+- 🎓 **Education:** Information & Communications Technology at **Batanes State College**.
 ---
 
 
